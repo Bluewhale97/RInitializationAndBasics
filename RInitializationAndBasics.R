@@ -1,4 +1,3 @@
-```r
 #1. Obtaining and installing R
 # at http://cran.r-project.org
 
@@ -104,4 +103,3 @@ plot(lmfit)
 cook<-cooks.distance(lmfit)
 plot(cook)
 predict(lmfit, mtcars)
-```
